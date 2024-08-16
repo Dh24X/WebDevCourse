@@ -1,0 +1,46 @@
+#intro {
+    font-family: 'Tahoma';
+    text-align: center;
+    font-size: 2em;
+    margin-top: 2em;
+    color: rgb(250, 250, 250);
+    font-weight: 600;
+}
+
+#name {
+    font-family: 'Tahoma';
+    font-size: 2em;
+    text-align: center;
+    margin-top: 1em;
+    color: rgb(255, 255, 255);
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+#Projects {
+    color: rgb(255, 255, 255);
+    border: 0.2em dotted wheat;
+}
+
+#achieve {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 600;
+    font-size: 2em;
+    margin-top: 2em;
+    border:3px rgb(255, 255, 255) dotted;
+    margin-left: 10em;
+    margin-right: 10em;
+    padding: 1em;
+}
+
+#content1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 0.6em;
+    font-weight: 500;
+}
